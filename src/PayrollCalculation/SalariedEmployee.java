@@ -12,6 +12,6 @@ class SalariedEmployee extends Employee {
     }
     @Override
     public String toString() {
-        return "SalariedEmployee{ " + super.toString() + " weeklySalary = " + weeklySalary + '}';
+        return "SalariedEmploye : " + super.toString() + "\n weeklySalary = " + weeklySalary ;
     }
 }
