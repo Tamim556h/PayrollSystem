@@ -1,0 +1,8 @@
+Name: Tamim
+Email: tamim
+Phone: 0183122
+Gender: Male
+DOB: 1-Jan-2025
+Country: Bangladesh
+Profile Photo: Not uploaded
+----------------------------------

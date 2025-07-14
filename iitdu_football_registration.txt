@@ -1,0 +1,24 @@
+Name: tamimj
+Phone: 01841330556
+Email: bsse1650@iit.du.ac.bd
+Address: shahidullah hall
+Gender: Male
+Date of Birth: 14-Jan-2005
+Degree: BSSE
+Photo: /home/tamim/Downloads/20250517_025221.jpg
+Preferred Position: Midfielder
+Played Inter-Dept: Yes
+Experience: good
+--------------------------------------------------
+Name: Tamim
+Phone: 01841330556
+Email: bsse1650@iit.du.ac.bd
+Address: du
+Gender: Male
+Date of Birth: 1-Jan-2005
+Degree: BSSE
+Photo: /home/tamim/Downloads/NHSCP_Volunteer/bcc1.jpeg
+Preferred Position: Goalkeeper
+Played Inter-Dept: Yes
+Experience: hfihewquihi
+--------------------------------------------------
